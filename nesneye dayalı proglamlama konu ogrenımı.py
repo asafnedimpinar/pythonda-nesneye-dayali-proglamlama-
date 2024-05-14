@@ -94,7 +94,7 @@ print(result1 + result2)
 # %% Yapıcı (Constructor)
 # Hayvan sınıfı tanımlanıyor.
 class Animal:
-    def __init__(self, a, b):  # name, age = a, b
+    def __init__(self, a, b):  # name, age = a, b ataması yapıldı
         self.name = a
         self.age = b
 
